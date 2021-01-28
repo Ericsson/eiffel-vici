@@ -17,7 +17,10 @@
 
 <img src="./images/logo.png" alt="Eiffel Vici" width="350"/>
 
+[![Sandbox badge](https://img.shields.io/badge/Stage-Sandbox-yellow)](https://github.com/eiffel-community/community/blob/master/PROJECT_LIFECYCLE.md#stage-sandbox)
+
 # Eiffel Vici
+
 Eiffel Vici dynamically visualizes Eiffel events retrieved from an [Eiffel Event Persistence Service](https://eiffel-community.github.io/eiffel-sepia/event-persistence.html). This affords overview and inspection of the software production system in real time, such as it really is, across underlying technologies.
 
 To get started using Vici, see How to Run below.
